@@ -86,7 +86,7 @@ font-size:18px; color:#5f3d39; font-family: 'Titillium Web', sans-serif; line-he
 .ft_pic{ margin-top: 14px;}
 
 .footer_section{ width:100%; background:#fff; padding:0; margin:80px 0 0 0;}
-.footer_section h2{font-size:16px; color:#5f3d39; font-family: 'Titillium Web', sans-serif; line-height:26px; text-transform:uppercase;}
+.footer_section h2{font-size:16px; color:#5f3d39; font-family: 'Titillium Web', sans-serif; line-height:26px; text-transform:uppercase; font-weight:600;}
 .footer_section p{font-size:16px; color:#5f3d39; font-family: 'Titillium Web', sans-serif; line-height:26px;}
 .note-text{ margin-top:12px; padding-left:0; padding-bottom:30px;}
 .footer_copyright_section{ width:100%; background:#5f3d39; padding:12px 0;}
